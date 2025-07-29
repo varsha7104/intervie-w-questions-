@@ -34,5 +34,11 @@ It involves creating tensors and defining operations that compose a graph
 once a computation graph is defined we can perform those operation to obtain results of computation.
 ## 7) mention api used outside the tensorflow
 A) TFLearn : Neural network creation and training quickly 
+
 TensorLayer : dl and reinforcement learning library built on tensor flow
 sonnet : for building complicated neural networks
+## 8) tensor flow graph
+ a) nodes : it represent  computation or  operations to be performed
+ b) edges:they carry output of the operation
+ c) operations: take i/p as tensor and o/p a tensor
+ 
