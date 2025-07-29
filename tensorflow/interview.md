@@ -41,4 +41,7 @@ sonnet : for building complicated neural networks
  a) nodes : it represent  computation or  operations to be performed
  b) edges:they carry output of the operation
  c) operations: take i/p as tensor and o/p a tensor
- 
+ ## 9) tensorflow session:
+  Tensorflow session is a class for running computational grpah It encapulsates graphs .It encapsulates the environment in whihc operations are executed 
+  using a session you can execute operations in context
+  
