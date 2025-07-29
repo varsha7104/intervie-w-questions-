@@ -56,3 +56,10 @@ sonnet : for building complicated neural networks
   ## 12) place holder
  Serves as a input node in computational grpah They are used to feed input data int o graph during execution phase
  Dynamic data input as their value can be reassigned at runtime rather than being fixed during graph construction
+
+## 13) embedding projector
+Display high dimensional data
+after input data is embedded in the high dimensional space by model it can be viewed
+The model checkpoint file is read by the embedded projector
+
+## 14) 
