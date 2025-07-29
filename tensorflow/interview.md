@@ -21,11 +21,18 @@ it can store n dimensional data of single datatype
 tensorflow is developed by google in 2015 whereas pytorch was developed by facebook meta ai in 2016 tensorflow uses more static graphs for computation whereas pytorch uses dynamic computational graph tensorflow is more used in production than pytorch Tensoflow learning tfx ,and torch serve onnx are production ready tools for tensor flow and pytorch respectively
 ## 5) types of tensors :
 <img width="1366" height="768" alt="Screenshot (99)" src="https://github.com/user-attachments/assets/576fe366-c03e-4ad1-b92b-6553732c3a90" />
+
 ## 6) tensorflow execution model
 Defining and executing computational graph to perform operations on tensors
 ## Graph Construction:
+
 computation is represented as directed acyclic graph
 nodes represent graph operations
 It involves creating tensors and defining operations that compose a graph
 ## Graph Execution:
+
 once a computation graph is defined we can perform those operation to obtain results of computation.
+## 7) mention api used outside the tensorflow
+A) TFLearn : Neural network creation and training quickly 
+TensorLayer : dl and reinforcement learning library built on tensor flow
+sonnet : for building complicated neural networks
