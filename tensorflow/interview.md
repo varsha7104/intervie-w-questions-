@@ -44,4 +44,10 @@ sonnet : for building complicated neural networks
  ## 9) tensorflow session:
   Tensorflow session is a class for running computational grpah It encapulsates graphs .It encapsulates the environment in whihc operations are executed 
   using a session you can execute operations in context
+  ## 10) tensorflow board
+  visual tool for inspecting and comprehending tensorflow runs and graphs 
+  allows us to see and enhance graphs
+  uses: visualize the model 
+  monitor models
+  histograms
   
