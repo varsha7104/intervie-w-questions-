@@ -62,4 +62,7 @@ Display high dimensional data
 after input data is embedded in the high dimensional space by model it can be viewed
 The model checkpoint file is read by the embedded projector
 
-## 14) 
+## 14) tensor flow variables
+Mutuable state ful objects which can be store and manage the model parameters such as weight,bias in neural network
+They allow the updates allowing in training iterations unlike tensors which are immutuable
+
