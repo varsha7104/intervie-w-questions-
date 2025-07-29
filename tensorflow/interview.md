@@ -19,3 +19,6 @@ term "tensors" refers to the mathematical concept that generalize the vector and
 it can store n dimensional data of single datatype 
 ##  difference between  tensor flow and pytorch ?
 tensorflow is developed by google in 2015 whereas pytorch was developed by facebook meta ai in 2016 tensorflow uses more static graphs for computation whereas pytorch uses dynamic computational graph tensorflow is more used in production than pytorch Tensoflow learning tfx ,and torch serve onnx are production ready tools for tensor flow and pytorch respectively
+## types of tensors :
+<img width="1366" height="768" alt="Screenshot (99)" src="https://github.com/user-attachments/assets/576fe366-c03e-4ad1-b92b-6553732c3a90" />
+
