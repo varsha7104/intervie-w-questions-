@@ -65,4 +65,11 @@ The model checkpoint file is read by the embedded projector
 ## 14) tensor flow variables
 Mutuable state ful objects which can be store and manage the model parameters such as weight,bias in neural network
 They allow the updates allowing in training iterations unlike tensors which are immutuable
-
+## 15) tensorflow variable creation
+You need to give initial value determining shape and datatype of variable 
+```python
+import tensorflow as tf
+my_var=tf.variable(tf.eye(2) ,dtype=tf.float32, name='my_variable')
+print(my_var)
+```
+tensorflow 2.x no need to initialize but in tensorflow 1.x you need to initialize
