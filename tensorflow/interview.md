@@ -50,4 +50,7 @@ sonnet : for building complicated neural networks
   uses: visualize the model 
   monitor models
   histograms
+  ## 11) tensorflow serving
+  It is flexible high performance secing system developed by google 
+  It focuses on production environment rather than research environment
   
