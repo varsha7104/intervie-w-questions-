@@ -53,4 +53,6 @@ sonnet : for building complicated neural networks
   ## 11) tensorflow serving
   It is flexible high performance secing system developed by google 
   It focuses on production environment rather than research environment
-  
+  ## 12) place holder
+ Serves as a input node in computational grpah They are used to feed input data int o graph during execution phase
+ Dynamic data input as their value can be reassigned at runtime rather than being fixed during graph construction
