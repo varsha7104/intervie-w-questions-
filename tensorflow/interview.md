@@ -73,3 +73,12 @@ my_var=tf.variable(tf.eye(2) ,dtype=tf.float32, name='my_variable')
 print(my_var)
 ```
 tensorflow 2.x no need to initialize but in tensorflow 1.x you need to initialize
+## tensorflow architecture
+
+
+## tensorflow tf.data module 
+Large efficient comprehensive library where input pipelines to preprocess ,load ,transform data for ml models
+To work with complex and large scale datasets
+
+## eager execution
+run your operations immediately  and return concrete values instead of building computational grpah
