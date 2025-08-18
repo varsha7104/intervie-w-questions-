@@ -53,17 +53,25 @@ In this step we do POS tagging, Parsing , and Coreference resolution.
 ## Deployment:
 We can deploy it by web ,application and even on aws server
 ## Understanding the textual data
-Elements of text:
+## Elements of text:
 1)Hierachacy of text : No of words and no of alphabets(n gram)
+
 2) Tokens: The words are tokenized 
 They are two types of tokenization:
+
 a) Sentence Tokenization
 b) Word Tokenization
-3) Vocabulary :About the noun
-4) Punctation: No of punctation (?,.< > " '; :) 
-5) Parts of Speech(Noun,pronoun,adjective)
+
+4) Vocabulary :About the noun
+
+6) Punctation: No of punctation (?,.< > " '; :) 
+
+7) Parts of Speech(Noun,pronoun,adjective)
+
 6)Roots of the word: Study is root word to studies ,student
+
 7 ) Base of a word : originial word can be seen
+
 8) Stopping word: a , the ,an ',' These are not important related to topic
 pos_tag gives the parts of speech
 ## Text Pre-Processing Techniques:
