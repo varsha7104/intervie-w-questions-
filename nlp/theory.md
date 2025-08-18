@@ -28,9 +28,12 @@ Natural language generation:Generating into other language
  2)  by   Web Scraping we can get data
 3) survey
 ## Text Preprocessing :
-Text Cleaning : In-text cleaning we do HTML tag removing emoji handling 
-Basic Preprocessing : In basic Preprocessing , we do tokenization(word or sent tokenization , remove digit ,lower casing_
-Advance Preprocessing : In this step we do POS tagging, Parsing , and Coreference resolution.
+### Text Cleaning : 
+In-text cleaning we do HTML tag removing emoji handling 
+### Basic Preprocessing :
+In basic Preprocessing , we do tokenization(word or sent tokenization , remove digit ,lower casing_
+### Advance Preprocessing : 
+In this step we do POS tagging, Parsing , and Coreference resolution.
 Feature Engineering :
 One hot Encoder
 Bag of Word(BOW)
