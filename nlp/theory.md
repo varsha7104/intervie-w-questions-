@@ -1,5 +1,7 @@
 Natural language processing that is used by machines to understand, analyze , manipulate , and intepret human's language 
-Applications are : Language Translation, Language detection,Spelling Check(in msword,chatbot,google),mail spam or not spam detection
+
+### Applications are :
+Language Translation, Language detection,Spelling Check(in msword,chatbot,google),mail spam or not spam detection
 We will mail under spam in gmail
 We can  make the robot to study about the data ,books and we can ask the questions regarding any question
 Huge amount of knowledge would be given and train the model from the language When we interpret it we get answer based on the feedback
