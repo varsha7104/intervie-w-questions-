@@ -35,17 +35,17 @@ In basic Preprocessing , we do tokenization(word or sent tokenization , remove d
 ### Advance Preprocessing : 
 In this step we do POS tagging, Parsing , and Coreference resolution.
 ## Feature Engineering :
-One hot Encoder
-Bag of Word(BOW)
-n-grams, 
-Tf-id
-Word2vec
+1) One hot Encoder
+2) Bag of Word(BOW)
+3) n-grams, 
+4) Tf-id
+5) Word2vec
 ## Modelling / Model Building:
- Approaches to building model:
- Heuristic Approach
- Machine Learning Approach
- Deep Learning Approach 
- Cloud API
+ ### Approaches to building model:
+ 1) Heuristic Approach
+ 2) Machine Learning Approach
+ 3) Deep Learning Approach 
+ 4) Cloud API
  ## Model Evaluation: Accuracy of The model.
  There are 2 types of evaluation:
  1) Intrinsic Evaluation: In this evaluation we use multiple metics to check our model such as Accuracy ,Recall,Confusion Metrics , Perplexity , etc
