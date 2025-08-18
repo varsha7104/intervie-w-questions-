@@ -9,7 +9,7 @@ Huge amount of knowledge would be given and train the model from the language Wh
 3 components:
 natural language understanding :text is converted When we are clicking same text in the search bar we will direct get the output based on the everything
 Natural language generation:Generating into other language
-Challenges of nlp:
+## Challenges of nlp:
 1) Contextual words and phrases and homononyms
 2) synonyms
 3) Irony and sarcasm
