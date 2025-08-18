@@ -21,7 +21,7 @@ Natural language generation:Generating into other language
 9) lack of research and development
    Nlp Library
    scikit learn, ntlk,spacy,textblob allennlp,tensorflpw
-   What is nlp pipeline?
+##   What is nlp pipeline?
    A) data collection -> text cleaning->preprocessing->feature engineering ->modelling ->evaluation->deployment->monitoring  and model Updating
    ##  Data Acquistion:
 1)    Api to get the data
