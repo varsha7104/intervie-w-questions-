@@ -34,13 +34,13 @@ In-text cleaning we do HTML tag removing emoji handling
 In basic Preprocessing , we do tokenization(word or sent tokenization , remove digit ,lower casing_
 ### Advance Preprocessing : 
 In this step we do POS tagging, Parsing , and Coreference resolution.
-Feature Engineering :
+## Feature Engineering :
 One hot Encoder
 Bag of Word(BOW)
 n-grams, 
 Tf-id
 Word2vec
- # Modelling / Model Building:
+## Modelling / Model Building:
  Approaches to building model:
  Heuristic Approach
  Machine Learning Approach
