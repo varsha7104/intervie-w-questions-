@@ -3,7 +3,7 @@ A) Nlp means Natural Language Processing is the subfield of artificial intellige
 anlyze and understand human language
 ## 2)  What are the main challenges in NLP?
 A) The main challenges are :
-a) Semantics 
+a) Semantics  
 b) Vocabulary
 c) Synonyms
 d) Contextual Understanding
